@@ -6,4 +6,6 @@ I'm 65 years old, and I'm from the old guard of programmers... In the distant ti
 
 Today I return to the world of computers, as an apprentice of web tools... (markup, style, and programming).
 
-I thank everyone in the community who strive to make all existing knowledge accessible and I hope to be an active part of this group. Hugs.
+I thank everyone in the community who strive to make all existing knowledge accessible and I hope to be an active part of this group. 
+
+Hugs.
