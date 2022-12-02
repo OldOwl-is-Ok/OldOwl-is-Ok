@@ -2,7 +2,7 @@ Please don't call me arrogant, conceited... (laughs...) OldOwl-is-Ok, literally 
 
 But d'ont worry,,, I'am really cool... (laughs).. 
 
-I'm 65 years old, and I'm from the old guard of programmers... In the distant time when we used Cobol as a programming language.
+I'm 66 years old, and I'm from the old guard of programmers... In the distant time when we used Cobol as a programming language.
 
 Today I return to the world of computers, as an apprentice of web tools... (markup, style, and programming).
 
