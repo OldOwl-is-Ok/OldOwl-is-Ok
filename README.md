@@ -9,3 +9,5 @@ Today I return to the world of computers, as an apprentice of web tools... (mark
 I thank everyone in the community who strive to make all existing knowledge accessible and I hope to be an active part of this group. 
 
 Hugs.
+
+P.S. I'll improve this text when I learn a little Markdown.
